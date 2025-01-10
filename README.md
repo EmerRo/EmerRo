@@ -1,8 +1,8 @@
 
-## Hi I'm Emer Rodrigo
+## Hola, Me llamo Emer Rodrigo
 <p> Soy, desarrollador fullstack junior 👨‍💻 y me apasionan las tecnologías móviles y el código abierto.  🏄‍♂️. </p>
     
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Bienvenido a mi mundo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Hola! Soy Emer Rodrigo un desarrollador full stack de Perú
 
